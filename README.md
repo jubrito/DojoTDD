@@ -24,7 +24,7 @@ Given-When-Then originates from Behaviour Driven Development. Thinking Given-Whe
 
 In the GWT world, G,W, and T are separate methods. That means that “all you need” is to fill in the blanks. I agree that this kind of structure can help newbies with their first tests. In the AAA version of the same tests, all three parts basically resides inside the same method.
 
-### Given / When / Then 
+### Given / When / Then
 
 - **GIVEN** a state or situation which you set up in the test (sets up the test’s input values)
 
